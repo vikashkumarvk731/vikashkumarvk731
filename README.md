@@ -18,7 +18,6 @@ Languages
 
 - Java
 - C
-- python
 - C++
 - JavaScript
 - SQL
