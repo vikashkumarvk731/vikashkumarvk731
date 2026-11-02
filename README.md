@@ -1,4 +1,4 @@
-👋 Hi, I'm Sumit Kumar
+👋 Hi, I'm Vikash Kumar
 
 🚀 Final-Year Computer Science Engineering Student | Aspiring Software Engineer
 
